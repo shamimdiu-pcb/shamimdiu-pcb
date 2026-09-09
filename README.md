@@ -12,7 +12,7 @@
 I design and build embedded electronics — from schematic capture and PCB layout to writing the firmware that brings the board to life. I enjoy taking a project from a rough idea to a working, manufactured board.
 
 - 🔭 Currently working on: *[add your current project here]*
-- 🌱 Currently learning: *[e.g. high-speed PCB design, RTOS, power electronics]*
+- 🌱 Currently learning: C++,python,verilog,Systemverilog
 - 💬 Ask me about: PCB design, embedded firmware, microcontrollers, hardware debugging
 - 📫 Reach me: [Facebook](https://www.facebook.com/share/1P8w3fPaLK/) · [Portfolio/Links](https://l1nk.dev/s455mv4)
 
@@ -23,8 +23,7 @@ I design and build embedded electronics — from schematic capture and PCB layou
 **PCB Design**
 <!-- Keep only the ones you actually use -->
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-BE1522?style=for-the-badge)
-![Eagle](https://img.shields.io/badge/Eagle-1F8DD6?style=for-the-badge)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1B2A4E?style=for-the-badge)
 
 **Microcontrollers / Embedded**
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -34,7 +33,6 @@ I design and build embedded electronics — from schematic capture and PCB layou
 
 **Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
