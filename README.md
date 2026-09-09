@@ -22,7 +22,7 @@
 
 I design and build embedded electronics — from schematic capture and PCB layout to writing the firmware that brings the board to life. I enjoy taking a project from a rough idea to a working, manufactured board.
 
-- 🔭 Currently working on: *[add your current project here]*
+- 🔭 Currently working on: VitalGuardian
 - 🌱 Currently learning: C++,python,Verilog,systemverilog
 - 💬 Ask me about: PCB design, embedded firmware, microcontrollers, hardware debugging
 
